@@ -1,0 +1,9 @@
+[submodule "ЗБ-ПИ21-1с/Sukhin-fa-md-practice"]
+	path = ЗБ-ПИ21-1с/Sukhin-fa-md-practice
+	url = https://github.com/HecklerK/Sukhin-fa-md-practice
+[submodule "ЗБ-ПИ21-1с/Martynova-fa-md-practice"]
+	path = ЗБ-ПИ21-1с/Martynova-fa-md-practice
+	url = https://github.com/helign/Martynova-fa-md-practice
+[submodule "ЗБ-ПИ21-1с/Brylyov-fa-md-practice"]
+	path = ЗБ-ПИ21-1с/Brylyov-fa-md-practice
+	url = https://github.com/vladez012/Brylyov-fa-md-practice
